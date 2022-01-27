@@ -1,6 +1,6 @@
 ### Oi, eu sou o Chrystian Farias �
 
-- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho
+- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho escutando uma boa música
 - 🐱‍🏍 Desenvolvedor Back End.
 - 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis
 - 🎯 Interesses: C# MVC, .NET Core, SQL Server, Python e Machine Learning
@@ -27,4 +27,5 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/chrystian-pinheiro-8a2327133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
 </div>
