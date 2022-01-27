@@ -1,7 +1,7 @@
 ### Oi, eu sou o Chrystian Farias �
 
-- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho escutando uma boa música
 - 🐱‍🏍 Desenvolvedor Back End.
+- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho
 - 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis
 - 🎯 Interesses: C# MVC, .NET Core, SQL Server, Python e Machine Learning
 
@@ -26,6 +26,10 @@
   
   
 <div> 
-  <a href="https://www.linkedin.com/in/chrystian-pinheiro-8a2327133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/chrystian-pinheiro-8a2327133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/chrys_cf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:chrystianb4mv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+  
   
 </div>
