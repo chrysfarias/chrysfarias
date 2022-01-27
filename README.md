@@ -1,9 +1,9 @@
 ### Oi, eu sou o Chrystian Farias �
 
 - 🐱‍🏍 Desenvolvedor Back End.
-- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho
-- 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis
-- 🎯 Interesses: C# MVC, .NET Core, SQL Server, Python e Machine Learning
+- 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho.
+- 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis.
+- 🎯 Interesses: C# MVC, .NET Core, SQL Server, Python e Machine Learning.
 
 
 
