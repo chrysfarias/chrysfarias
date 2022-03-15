@@ -4,6 +4,8 @@
 - 🔌 Apenas um carinha de exatas que ama codar, estudar incansavelmente e nas horas vagas jogar um lolzinho.
 - 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis.
 - 🎯 Interesses: C#, .NET Core, SQL Server, Python e Machine Learning.
+- 🐱‍ Em transição de carreira
+- 🐱‍ Aprovado recentemente na Universidade Estatual do Mato Grosso no curso de Ciências da Computação
 
 
 
