@@ -5,7 +5,7 @@
 - 🐱‍👤 Graduando em Engenharia Mecânica na Universidade Federal de Rondonópolis.
 - 🎯 Interesses: C#, .NET Core, SQL Server, Python e Machine Learning.
 - 🐱‍ Em transição de carreira
-- 🐱‍ Aprovado recentemente na Universidade Estadual do Mato Grosso no curso de Ciência da Computação
+
 
 
 
